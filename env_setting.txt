@@ -1,0 +1,12 @@
+
+project env setting
+    ZZY-HW-2025
+
+    ZZY-NH55-20250208
+        py  3.12.8 https://www.python.org/downloads/release/python-3128/
+            ** C:\Users\admin\AppData\Local\Programs\Python\Python312\python.exe **
+            C:\Users\admin\AppData\Local\Programs\Python\Python311\python.exe
+            C:\Users\admin\AppData\Local\Microsoft\WindowsApps\python.exe
+        Torch(2.4.1)-CUDA(12.4) https://pytorch.org/get-started/previous-versions/
+            pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu124
+
