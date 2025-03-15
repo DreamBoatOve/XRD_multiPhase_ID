@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_FeB
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.90917576
+_cell_length_b   4.04919325
+_cell_length_c   5.46924527
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeB
+_chemical_formula_sum   'Fe4 B4'
+_cell_volume   64.42669657
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Fe3+  3.0
+  B3-  -3.0
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe3+  Fe0  1  0.25000000  0.38197009  0.17927859  1
+  Fe3+  Fe1  1  0.75000000  0.61802991  0.82072141  1
+  Fe3+  Fe2  1  0.75000000  0.88197009  0.32072141  1
+  Fe3+  Fe3  1  0.25000000  0.11802991  0.67927860  1
+  B3-  B4  1  0.25000000  0.88642882  0.03519641  1
+  B3-  B5  1  0.75000000  0.11357118  0.96480359  1
+  B3-  B6  1  0.75000000  0.38642882  0.46480359  1
+  B3-  B7  1  0.25000000  0.61357118  0.53519641  1
