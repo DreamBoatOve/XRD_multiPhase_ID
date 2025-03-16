@@ -12,6 +12,8 @@ pdos_gnn/.idea/
 pdos_gnn/__pycache__/
 
 #--------------- venv ---------------
+venv/
+
 zzy_venv/
 
 OER_prjs/zzy_venv/
